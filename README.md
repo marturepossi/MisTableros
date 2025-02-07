@@ -5,6 +5,7 @@ MisTableros es una aplicación web inspirada en Trello, diseñada para la gesti�
 Esta aplicación está desarrollada con React, Node.js, Express y MongoDB, brindando una experiencia fluida y eficiente para la administración de proyectos de manera sencilla y estructurada.
 
 Características Principales
+
 ✅ Creación, edición y eliminación de tableros de trabajo.
 ✅ Administración de listas y tareas, permitiendo organizar proyectos de forma estructurada.
 ✅ Usuarios colaborativos, con la capacidad de invitar o eliminar miembros en un proyecto.
