@@ -1,0 +1,13 @@
+Miercoles
+-Usaurios ok. Con imagenes y descripcion.
+-Tableros ok. Con imagen, categoria y miembros.
+-Listas ok.
+-Tarjetas ok.
+
+-----
+Jueves
+-Tableros tiene imagenes ok.
+TODO:Falta diseno y estamos
+
+
+

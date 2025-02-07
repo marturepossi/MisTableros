@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Project Alpha",
+        "creator": "user_id_1",
+        "members": ["user_id_1", "user_id_2"],
+        "lists": [
+            {
+                "title": "To Do",
+                "cards": [
+                    {"title": "Task 1", "description": "Description 1", "priority": "Alta"},
+                    {"title": "Task 2", "description": "Description 2", "priority": "Media"}
+                ]
+            },
+            {
+                "title": "In Progress",
+                "cards": [
+                    {"title": "Task 3", "description": "Description 3", "priority": "Baja"}
+                ]
+            },
+            {
+                "title": "Done",
+                "cards": [
+                    {"title": "Task 4", "description": "Description 4", "priority": "Media"}
+                ]
+            }
+        ],
+        "status": "En curso"
+    },
+    {
+        "name": "Project Beta",
+        "creator": "user_id_2",
+        "members": ["user_id_2", "user_id_3"],
+        "lists": [
+            {
+                "title": "To Do",
+                "cards": [
+                    {"title": "Task A", "description": "Description A", "priority": "Media"}
+                ]
+            },
+            {
+                "title": "In Progress",
+                "cards": [
+                    {"title": "Task B", "description": "Description B", "priority": "Alta"}
+                ]
+            },
+            {
+                "title": "Done",
+                "cards": [
+                    {"title": "Task C", "description": "Description C", "priority": "Baja"}
+                ]
+            }
+        ],
+        "status": "En curso"
+    }
+]
